@@ -1,10 +1,10 @@
-# Makoto'nun Cloudstream Türkçe Eklentileri
+# Aybuz'un Cloudstream Türkçe Eklentileri
 
 Deponun kısa kodu: **makoto**
 
 <img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/assets/persona-3-makoto-3393384685hh.gif" width="100%" />
 
-[Telegram duyuru kanalına katılmak için tıklayın](https://t.me/makotocs)
+[Youtube Kanalına Abone Olmak için tıklayın](https://youtube.com/channel/UCToptBiyRwr2ABsnVpXm5Dw?si=6ycSbGef24-0ejYU)
 
 [Matrix sohbet kanalına katılmak için tıklayın](https://matrix.to/#/#makotocs:matrix.org)
 

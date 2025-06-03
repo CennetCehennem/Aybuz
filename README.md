@@ -4,9 +4,9 @@ Deponun kısa kodu: **makoto**
 
 <img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/assets/persona-3-makoto-3393384685hh.gif" width="100%" />
 
-[Youtube Kanalına Abone Olmak için tıklayın](https://youtube.com/channel/UCToptBiyRwr2ABsnVpXm5Dw?si=6ycSbGef24-0ejYU)
+[Youtube Kanalıma Abone Olmak için tıklayın](https://youtube.com/channel/UCToptBiyRwr2ABsnVpXm5Dw?si=6ycSbGef24-0ejYU)
 
-[Matrix sohbet kanalına katılmak için tıklayın](https://matrix.to/#/#makotocs:matrix.org)
+[Sinetech Youtube kanalına Abone Olmak için tıklayın](https://youtube.com/@sinetechone?si=s_SGS_KYspnr2cx9)
 
 [Depoyu otomatik yüklemek için tıklayın](https://keyiflerolsun.me/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/repo.json)
 

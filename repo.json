@@ -1,8 +1,8 @@
 {
-    "name": "Makoto'nun Cloudstream Reposu",
-    "description": "Türkçe Cloudstream eklentiler listesi",
+    "name": "Aybuz",
+    "description": "Türkçe",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/plugins.json"
+      "https://raw.githubusercontent.com/CennetCehennem/Cloudstream-Turkce-Eklentiler/main/plugins.json"
     ]
 }
